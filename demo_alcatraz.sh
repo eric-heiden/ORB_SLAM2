@@ -1,2 +1,2 @@
-./Examples/Monocular/mono_alcatraz  /home/wal/dev/ORB_SLAM2/Vocabulary/ORBvoc.txt /home/wal/dev/ORB_SLAM2/Examples/Monocular/Alcatraz.yaml /home/wal/dev/ORB_SLAM2/Examples/Monocular/alcatraz
+./Examples/Monocular/mono_alcatraz  Vocabulary/ORBvoc.txt Examples/Monocular/Alcatraz.yaml Examples/Monocular/alcatraz
 
